@@ -10,7 +10,7 @@ Este repositório reúne todos os projetos e atividades realizados nas disciplin
 | **💡** | [Algoritmos e Pensamento Computacional.](https://github.com/dinizgustavo085-maker/Repositorio_1_Semestre/tree/main/Algoritmos%20e%20Pensamento%20Computacional)<br>
 | **🌐** | [Desenvolvimento Front-End para Web.](https://github.com/dinizgustavo085-maker/Repositorio_1_Semestre/tree/main/Desenvolvimento%20Front-End%20para%20Web)<br>
 | **🛠️** | [Design Profissional.](https://github.com/dinizgustavo085-maker/Repositorio_1_Semestre/tree/main/Desing_Profissional_UDF-main)<br>
-| **📝** | [Modelagem de Banco de Dados.](https://github.com/dinizgustavo085-maker/Repositorio_1_Semestre/tree/main/Modelagem%20de%20Banco%20de%20Dados)<br>
+| **📝** | [Modelagem de Banco de Dados.](https://github.com/dinizgustavo085-maker/Repositorio_1_Semestre/tree/main/Modelagem_Banco_de_Dados_UDF-main)<br>
 
 ---
 ## 📌 Como Navegar
