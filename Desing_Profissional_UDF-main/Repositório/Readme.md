@@ -47,6 +47,6 @@ Estou buscando oportunidades para:
 
 | Plataforma | Link |
 | :--- | :--- |
-| **GitHub** | **[PREENCHA AQUI: URL do seu GitHub]** |
+| **GitHub** | **https://github.com/dinizgustavo085-maker** |
 
 ---
