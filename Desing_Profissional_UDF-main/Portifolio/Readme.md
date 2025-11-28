@@ -18,7 +18,7 @@ Aqui está um exemplo prático dos meus conhecimentos em Algoritmos e Estrutura 
 | Detalhe | Informação |
 | :--- | :--- |
 | **Descrição** | Implementação de um algoritmo de ordenação (sorting) para demonstrar a compreensão de lógica de programação e análise de eficiência de algoritmos computacionais. Este foi um projeto chave da disciplina de Algoritmos. |
-| **Tecnologia** | [Você deve preencher a linguagem usada no projeto (Ex: Python, C, Java)] |
+| **Tecnologia** | C |
 | **Repositório** | [Acessar Projeto Ordenador](https://github.com/dinizgustavo085-maker/Repositorio_1_Semestre/tree/main/ProjetosAlgortimosComputacionaisUDF-main/Ordenador) |
 
 ## 🎓 Formação Acadêmica
