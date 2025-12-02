@@ -27,7 +27,7 @@ O diretório principal contém os seguintes artefatos:
 Este projeto foi desenvolvido utilizando as seguintes ferramentas:
 
 * **Modelagem (Conceitual e Lógica):** **brModelo**
-* **SGBD (Sistema Gerenciador de Banco de Dados):** **MySQL**
+* **SGBD (Sistema Gerenciador de Banco de Dados):** **PostgreSQL**
 * **Linguagem:** SQL (Structured Query Language)
 
 ---
@@ -37,7 +37,7 @@ Este projeto foi desenvolvido utilizando as seguintes ferramentas:
 * Análise de requisitos para modelagem de dados.
 * Desenvolvimento de Modelos Entidade-Relacionamento (DER).
 * Transformação do modelo conceitual para o modelo lógico.
-* Implementação do esquema de banco de dados via DDL no MySQL.
+* Implementação do esquema de banco de dados via DDL no PostgreSQL.
 
 ---
 *Desenvolvido por Gustavo Diniz.*
