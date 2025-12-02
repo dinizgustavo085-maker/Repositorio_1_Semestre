@@ -37,7 +37,7 @@ Este projeto foi desenvolvido utilizando as seguintes ferramentas:
 * Análise de requisitos para modelagem de dados.
 * Desenvolvimento de Modelos Entidade-Relacionamento (DER).
 * Transformação do modelo conceitual para o modelo lógico.
-* Implementação do esquema de banco de dados via DDL no MySQL.
+* Implementação do esquema de banco de dados via DDL no PostgreSQL.
 
 ---
 *Desenvolvido por Gustavo Diniz.*
